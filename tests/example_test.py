@@ -7,4 +7,4 @@ def a_string():
 
 
 def test_equality(a_string):
-    assert a_string == "a string"
+    assert a_string == "hello string"
